@@ -146,6 +146,18 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Editor",
+        "startDate": "2018-02-01",
+        "institution": {
+          "name": "Universidad de Buenos Aires"
+        },
+        "finishDate": "2021-12-01"
+      }
     ]
   },
   "careerPreferences": {
