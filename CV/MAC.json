@@ -234,6 +234,12 @@
       ],
       "contactMails": [
         "makoski.ed@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "3743506085",
+          "countryCode": "+54"
+        }
       ]
     },
     "preferences": {
