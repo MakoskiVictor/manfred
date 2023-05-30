@@ -267,5 +267,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría trabajar en un entorno con sus retos, pero también donde valoren la importancia de mantenerse actualizados en las tecnologías que se manejan."
   }
 }
