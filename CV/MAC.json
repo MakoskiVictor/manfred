@@ -264,6 +264,9 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
     },
     "status": "searchingActively"
