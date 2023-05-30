@@ -18,7 +18,13 @@
         "notes": "Autocompleted using Google Maps API (id: ChIJZ8b99fXKvJURqA_wKpl3Lz0)",
         "country": "Argentina"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://portfolio-makoski-dev.vercel.app/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
