@@ -138,6 +138,10 @@
         {
           "URL": "https://www.linkedin.com/in/makoskidev/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/MakoskiVictor",
+          "type": "other"
         }
       ],
       "contactMails": [
