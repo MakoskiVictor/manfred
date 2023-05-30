@@ -10,8 +10,13 @@
       "surnames": "Makoski",
       "title": "Full Stack Developer",
       "description": "Soy un desarrollador Full Stack especializado en FrontEnd, graduado de Henry Bootcamp. Mi enfoque principal es crear aplicaciones web escalables y de alta calidad utilizando tecnologías como React, Node, Jest y PostgreSQL. También tengo conocimientos en Clean Code y experiencia trabajando en equipos que utilizan metodología Scrum.\n\nDesde que comencé mi carrera como desarrollador, he tenido la oportunidad de trabajar en proyectos emocionantes y desafiantes que me han permitido crecer y desarrollar mis habilidades en el desarrollo de software. Me apasiona aprender y experimentar con las últimas tecnologías y herramientas, y me esfuerzo por mantenerme actualizado con las tendencias en la industria del desarrollo web.\n\nEstoy comprometido a trabajar en equipo y colaborar con otros para lograr objetivos comunes, y disfruto de trabajar en entornos de ritmo rápido y en constante evolución. Además, soy un comunicador eficaz y disfruto de interactuar con los clientes para entender sus necesidades y crear soluciones personalizadas.\n\nEstoy emocionado por seguir desarrollando mi carrera como desarrollador y contribuir con mi experiencia y habilidades en un equipo dinámico y en crecimiento. Si está interesado en hablar más sobre mi experiencia y habilidades, no dude en ponerse en contacto conmigo.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/30/aba47b2b-1c2f-445a-8afb-8eedf5dec224_img_20230313_1820093.jpg",
+        "alt": "IMG_20230313_182009375 (1).jpg"
+      },
       "location": {
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJZ8b99fXKvJURqA_wKpl3Lz0)",
+        "country": "Argentina"
       }
     }
   },
@@ -73,13 +78,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -91,19 +96,7 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sequelize",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -115,19 +108,36 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sequelize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "makoski.ed@gmail.com"
+      ]
+    },
     "status": "searchingActively"
   }
 }

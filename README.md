@@ -2,12 +2,12 @@
 
 # Víctor Makoski's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/f028a192-315b-4a47-a9fc-0e5c768f1f5c).
 <br/>
 <br/>
 
 <div align='center'>
-  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2023-05-30 15:15 UTC&color=brightgreen&style=for-the-badge'>
+  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2023-05-30 15:16 UTC&color=brightgreen&style=for-the-badge'>
   <a href='https://github.com/getmanfred/mac'>
     <img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.3&color=brightgreen&style=for-the-badge'>
   </a>
