@@ -1,0 +1,133 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Víctor",
+      "surnames": "Makoski",
+      "title": "Full Stack Developer",
+      "description": "Soy un desarrollador Full Stack especializado en FrontEnd, graduado de Henry Bootcamp. Mi enfoque principal es crear aplicaciones web escalables y de alta calidad utilizando tecnologías como React, Node, Jest y PostgreSQL. También tengo conocimientos en Clean Code y experiencia trabajando en equipos que utilizan metodología Scrum.\n\nDesde que comencé mi carrera como desarrollador, he tenido la oportunidad de trabajar en proyectos emocionantes y desafiantes que me han permitido crecer y desarrollar mis habilidades en el desarrollo de software. Me apasiona aprender y experimentar con las últimas tecnologías y herramientas, y me esfuerzo por mantenerme actualizado con las tendencias en la industria del desarrollo web.\n\nEstoy comprometido a trabajar en equipo y colaborar con otros para lograr objetivos comunes, y disfruto de trabajar en entornos de ritmo rápido y en constante evolución. Además, soy un comunicador eficaz y disfruto de interactuar con los clientes para entender sus necesidades y crear soluciones personalizadas.\n\nEstoy emocionado por seguir desarrollando mi carrera como desarrollador y contribuir con mi experiencia y habilidades en un equipo dinámico y en crecimiento. Si está interesado en hablar más sobre mi experiencia y habilidades, no dude en ponerse en contacto conmigo.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Autónomo"
+        },
+        "roles": [
+          {
+            "name": "Masoterapeuta",
+            "startDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": "- Realización de masajes terapéuticos y de relajación en una clínica de masajes.\n- Trabajo de manera independiente, manejando horarios de citas y comunicándose efectivamente con los clientes.\n- Desarrollo de planes de tratamiento personalizados para cada cliente basado en sus necesidades y objetivos específicos.\n- Utilización de diferentes técnicas de masaje, como masaje deportivo, maderoterapia, ventosaterapia y quiromasaje.\n- Mantenimiento de registros precisos de las sesiones de masaje y los planes de tratamiento de los clientes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Boutique Tu Estilo"
+        },
+        "roles": [
+          {
+            "name": "Encargado de ventas",
+            "startDate": "2020-07-01",
+            "finishDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": "- Mantenimiento de registros precisos de las ventas y el inventario de la tienda.\n- Manejo de quejas de clientes y resolución de problemas de manera efectiva para garantizar la satisfacción del cliente.\n- Implementación de estrategias de marketing para promocionar productos y aumentar las ventas.\n- Creación de informes de ventas mensuales para la gerencia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Criadero Yaraví "
+        },
+        "roles": [
+          {
+            "name": "Encargado de instalaciones",
+            "startDate": "2013-01-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "- Responsable del mantenimiento y reparación de las instalaciones del criadero de perros. \n- Coordinación de tareas diarias y atención al cliente para asegurar la satisfacción del cliente. \n- Participación en la implementación de mejoras en la infraestructura del criadero, incluyendo la implementación de un sistema caniles especializados."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sequelize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
