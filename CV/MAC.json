@@ -149,12 +149,31 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "EFSET English Certificate",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "EFSET",
+          "URL": "https://www.efset.org/cert/2nZdMK",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/30/7d826f95-6693-4495-babc-0ccf937e6966_std8evxe_400x400.jpg",
+            "alt": "std8EVXe_400x400.jpg"
+          }
+        },
+        "finishDate": "2025-01-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Editor",
         "startDate": "2018-02-01",
         "institution": {
-          "name": "Universidad de Buenos Aires"
+          "name": "Universidad de Buenos Aires",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/30/bd444a14-ee1a-4af6-8018-fa6ed7eb80d0_logo_de_la_universid.jpg",
+            "alt": "Logo_de_la_Universidad_de_Buenos_Aires.jpg"
+          }
         },
         "finishDate": "2021-12-01"
       },
