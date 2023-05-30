@@ -81,6 +81,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
