@@ -157,6 +157,47 @@
           "name": "Universidad de Buenos Aires"
         },
         "finishDate": "2021-12-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Full Stack Developer",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Henry Bootcamp",
+          "URL": "https://certificates.soyhenry.com/cert?id=aa874ddb-972e-4376-b54f-95adf74e9781",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/30/3c55ef19-e148-41b5-b265-c50312676060_logoog.png",
+            "alt": "logoOG.png"
+          }
+        },
+        "finishDate": "2022-10-01",
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Sequelize",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
