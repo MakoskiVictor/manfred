@@ -239,6 +239,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
