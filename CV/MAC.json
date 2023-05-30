@@ -239,6 +239,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
           "name": "Jest",
           "type": "technology"
         },
