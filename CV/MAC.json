@@ -134,6 +134,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/makoskidev/",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "makoski.ed@gmail.com"
       ]
