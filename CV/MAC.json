@@ -236,6 +236,14 @@
         "makoski.ed@gmail.com"
       ]
     },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
