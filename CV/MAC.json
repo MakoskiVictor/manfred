@@ -239,10 +239,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "C#",
-          "type": "technology"
-        },
-        {
           "name": "GraphQL",
           "type": "technology"
         },
