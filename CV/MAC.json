@@ -295,6 +295,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
