@@ -275,6 +275,10 @@
           "type": "technology"
         },
         {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
           "name": "Jest",
           "type": "technology"
         },
