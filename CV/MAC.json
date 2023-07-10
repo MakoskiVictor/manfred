@@ -82,6 +82,35 @@
     "projects": [
       {
         "details": {
+          "name": "https://ta-te-ti-sigma.vercel.app/",
+          "description": "Juego desarrollado con React.Js y CSS, donde 2 jugadores (O y X) deben competir por lograr una línea ininterrumpida de sus respectivos símbolos en una grilla de 3x3.",
+          "URL": "https://ta-te-ti-sigma.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/10/b0430e57-622a-4a15-8138-13e7e16ae534_teteti.jpg",
+            "alt": "teteti.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ecommerce Techno Trade",
           "description": "Proyecto grupal: una Ecommerce creada desde cero utilizando el Stack PERN. En las primeras estapas del proyecto me encontraba trabajando en el backend, para luego sumarme en el front llevando a cabo el Dashboard de Administrador.\n\nEste proyecto incluye filtros combinados, pasarela de pago con Stripe, carrito de compras, borrado lógico, registro y login con correo y terceros (Google), favoritos, autenticación y un Dashboard de admin donde se pueden ver todos los usuarios (darles ban o privilegios), ver las ordenes, crear, ver y modificar los productos, así como también ver los comentarios reportados y decidir si ocultarlos, ocultarlos y prohibir al usuario crear nuevos comentarios o banearlo y borrar todos los comentarios anteriores.",
           "URL": "https://front-wheat-gamma.vercel.app/",
@@ -401,6 +430,9 @@
       },
       {
         "name": "Porfolio"
+      },
+      {
+        "name": "https://ta-te-ti-sigma.vercel.app/"
       }
     ]
   }
