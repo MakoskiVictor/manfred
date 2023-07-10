@@ -82,6 +82,43 @@
     "projects": [
       {
         "details": {
+          "name": "Google Translate Clone",
+          "description": "Clon del traductor de Google, realizado con Typescript, React y Node. Soporta inglés, español y alemán.\nTambién cuenta con botones para copiar el texto y leerlo.",
+          "URL": "https://google-translate-clonned.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/10/80b9c518-aedc-41bb-b979-619111bf7bdf_translate.jpg",
+            "alt": "translate.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-03-01",
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-04-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "https://ta-te-ti-sigma.vercel.app/",
           "description": "Juego desarrollado con React.Js y CSS, donde 2 jugadores (O y X) deben competir por lograr una línea ininterrumpida de sus respectivos símbolos en una grilla de 3x3.",
           "URL": "https://ta-te-ti-sigma.vercel.app/",
@@ -427,6 +464,9 @@
     "projects": [
       {
         "name": "Ecommerce Techno Trade"
+      },
+      {
+        "name": "Google Translate Clone"
       },
       {
         "name": "Porfolio"
