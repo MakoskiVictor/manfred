@@ -82,6 +82,55 @@
     "projects": [
       {
         "details": {
+          "name": "Ecommerce Techno Trade",
+          "description": "Proyecto grupal: una Ecommerce creada desde cero utilizando el Stack PERN. En las primeras estapas del proyecto me encontraba trabajando en el backend, para luego sumarme en el front llevando a cabo el Dashboard de Administrador.\n\nEste proyecto incluye filtros combinados, pasarela de pago con Stripe, carrito de compras, borrado lógico, registro y login con correo y terceros (Google), favoritos, autenticación y un Dashboard de admin donde se pueden ver todos los usuarios (darles ban o privilegios), ver las ordenes, crear, ver y modificar los productos, así como también ver los comentarios reportados y decidir si ocultarlos, ocultarlos y prohibir al usuario crear nuevos comentarios o banearlo y borrar todos los comentarios anteriores.",
+          "URL": "https://front-wheat-gamma.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/10/7381ab48-a023-49a4-bd3d-c07d437edcad_tech.jpg",
+            "alt": "tech.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Porfolio",
           "description": "Mi portfolio con mis últimos proyectos, redes, contactos e información.",
           "URL": "https://portfolio-makoski-dev.vercel.app/",
@@ -347,6 +396,9 @@
   "manfredSpecificData": {
     "desiredJobDescription": "Me gustaría trabajar en un entorno con sus retos, pero también donde valoren la importancia de mantenerse actualizados en las tecnologías que se manejan.",
     "projects": [
+      {
+        "name": "Ecommerce Techno Trade"
+      },
       {
         "name": "Porfolio"
       }
