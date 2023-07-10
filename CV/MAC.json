@@ -490,6 +490,7 @@
   },
   "manfredSpecificData": {
     "desiredJobDescription": "Me gustaría trabajar en un entorno con sus retos, pero también donde valoren la importancia de mantenerse actualizados en las tecnologías que se manejan.",
+    "goodPractices": "En mis primeros proyectos comencé implementando  modularización de componentes y, con el tiempo, la reutilización de los mismos. \nActualmente me encuentro realizando tests unitarios en mis proyectos.\nMe apasiona el Clean Code y me encuentro activamente aprendiendo nuevas implementaciones para lograr un código lo más legible posible.",
     "projects": [
       {
         "name": "Ecommerce Techno Trade"
