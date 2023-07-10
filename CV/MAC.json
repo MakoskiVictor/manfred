@@ -82,6 +82,35 @@
     "projects": [
       {
         "details": {
+          "name": "Snake App",
+          "description": "Clásico juego de la vivorita, donde debes comer las frutas para aumentar tu score, evitando chocar contra las paredes.",
+          "URL": "https://expo.dev/@makoski/SnakeApp?serviceType=classic&distribution=expo-go",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/10/90273e40-b8c4-49c5-ab26-d672d7461671_snake.jpg",
+            "alt": "snake.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-04-01",
+            "competences": [
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Google Translate Clone",
           "description": "Clon del traductor de Google, realizado con Typescript, React y Node. Soporta inglés, español y alemán.\nTambién cuenta con botones para copiar el texto y leerlo.",
           "URL": "https://google-translate-clonned.vercel.app/",
@@ -470,6 +499,9 @@
       },
       {
         "name": "Porfolio"
+      },
+      {
+        "name": "Snake App"
       },
       {
         "name": "https://ta-te-ti-sigma.vercel.app/"
