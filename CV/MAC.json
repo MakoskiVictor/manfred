@@ -19,6 +19,21 @@
         "country": "Argentina"
       }
     },
+    "recommendations": [
+      {
+        "title": "Gentleman Programming",
+        "type": "other",
+        "URL": "https://linktr.ee/gentlemanprogramming",
+        "summary": "Videos, podcasts y otros recursos sobre programación web. Los recursos varían pero se encuentran fuertemente centrados en Front End (React - Angular) y patrones de diseño. ",
+        "authors": [
+          {
+            "name": "Gentleman",
+            "surnames": "Gentleman",
+            "title": "Author"
+          }
+        ]
+      }
+    ],
     "relevantLinks": [
       {
         "type": "other",
@@ -506,6 +521,12 @@
       },
       {
         "name": "https://ta-te-ti-sigma.vercel.app/"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Gentleman Programming",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/10/3d023822-3fc5-4a1b-9f32-84a4c7c9570f_gent.jpg"
       }
     ]
   }
