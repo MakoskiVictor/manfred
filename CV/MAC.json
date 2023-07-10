@@ -78,6 +78,41 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Porfolio",
+          "description": "Mi portfolio con mis últimos proyectos, redes, contactos e información.",
+          "URL": "https://portfolio-makoski-dev.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/10/42d1f896-0e78-44c3-804b-0f90a74977c2_portfolio.jpg",
+            "alt": "portfolio.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Hooks",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-04-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -310,6 +345,11 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
-    "desiredJobDescription": "Me gustaría trabajar en un entorno con sus retos, pero también donde valoren la importancia de mantenerse actualizados en las tecnologías que se manejan."
+    "desiredJobDescription": "Me gustaría trabajar en un entorno con sus retos, pero también donde valoren la importancia de mantenerse actualizados en las tecnologías que se manejan.",
+    "projects": [
+      {
+        "name": "Porfolio"
+      }
+    ]
   }
 }
