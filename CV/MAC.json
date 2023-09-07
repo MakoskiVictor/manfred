@@ -97,6 +97,51 @@
     "projects": [
       {
         "details": {
+          "name": "Star Wars Microservices",
+          "description": "• Use of RESTful API to interact with the database.\n• Implementation of endpoints for CRUD operations on Star Wars data.\n• Handling of JSON requests and responses.\n• API documentation using tools like Insomnia.\n• Management of Docker containers to facilitate deployment and scalability.\n• Deployment on Google Cloud Platform.",
+          "URL": "https://star-wars-microservices.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/3d822c94-8f37-43ae-9bcf-0f8a7d733af8_microservic_yfup46.jpg",
+            "alt": "microservic_yfup46.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-08-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Snake App",
           "description": "Clásico juego de la vivorita, donde debes comer las frutas para aumentar tu score, evitando chocar contra las paredes.",
           "URL": "https://expo.dev/@makoski/SnakeApp?serviceType=classic&distribution=expo-go",
@@ -518,6 +563,9 @@
       },
       {
         "name": "Snake App"
+      },
+      {
+        "name": "Star Wars Microservices"
       },
       {
         "name": "https://ta-te-ti-sigma.vercel.app/"
