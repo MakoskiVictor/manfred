@@ -49,6 +49,60 @@
     "jobs": [
       {
         "organization": {
+          "name": "Innevo Tech",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/10/f189c5ca-4efb-4df7-95e9-47c1548b00ce_innevo_logo.jpg",
+            "alt": "innevo_logo.jpg"
+          },
+          "URL": "https://landing.innevo.cl/en/"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2024-03-01",
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Autónomo"
         },
         "roles": [
