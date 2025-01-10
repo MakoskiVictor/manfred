@@ -531,6 +531,10 @@
           "type": "technology"
         },
         {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
           "name": "Linux",
           "type": "technology"
         },
