@@ -523,15 +523,15 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
         {
           "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "React Native",
           "type": "technology"
         }
       ],
