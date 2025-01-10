@@ -613,7 +613,7 @@
       }
     ],
     "desiredJobDescription": "Me gustaría trabajar en un entorno con sus retos, pero también donde valoren la importancia de mantenerse actualizados en las tecnologías que se manejan.",
-    "goodPractices": "En mis primeros proyectos comencé implementando  modularización de componentes y, con el tiempo, la reutilización de los mismos. \nActualmente me encuentro realizando tests unitarios en mis proyectos.\nMe apasiona el Clean Code y me encuentro activamente aprendiendo nuevas implementaciones para lograr un código lo más legible posible.",
+    "goodPractices": "Algunas de las buenas prácticas que intento llevar a cabo en mi día a día en el trabajo son:\n\n- Análisis en equipo de los trabajos a llevar a cabo antes de dar una fecha de entrega.\n- Modularización del proyecto y reutilización de código.\n- Evaluar performance en las queries de SQL, evitando pedir datos innecesarios.\n- Separación de responsabilidades en la creación de Clases y sus respectivos métodos\n- Validaciones preventivas cuando trabajo con lenguajes débilmente tipados como JavaScript y PHP.\n- Mejoras incrementales (me centro en crear un código que cumpla con la tarea y, luego, lo voy mejorando de a poco).\n- Uso de logs en consola para tener registros de actividades tanto en desarrollo como para su control en producción.\n",
     "projects": [
       {
         "name": "Ecommerce Techno Trade"
