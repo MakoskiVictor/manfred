@@ -539,6 +539,10 @@
           "type": "technology"
         },
         {
+          "name": "SQLite",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
