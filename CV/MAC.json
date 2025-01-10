@@ -363,12 +363,6 @@
       },
       {
         "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
@@ -376,6 +370,12 @@
       {
         "skill": {
           "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
           "type": "technology"
         }
       },
@@ -393,19 +393,13 @@
       },
       {
         "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sequelize",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
           "type": "technology"
         }
       }
@@ -592,23 +586,23 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "AngularJS",
-        "type": "technology"
-      },
-      {
-        "name": "Jest",
-        "type": "technology"
-      },
-      {
         "name": "NodeJS",
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {
         "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "nestJS",
         "type": "technology"
       }
     ],
