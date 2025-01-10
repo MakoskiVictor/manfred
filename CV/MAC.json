@@ -531,6 +531,10 @@
           "type": "technology"
         },
         {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
