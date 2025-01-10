@@ -555,6 +555,10 @@
           "type": "technology"
         },
         {
+          "name": "Symfony",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         },
