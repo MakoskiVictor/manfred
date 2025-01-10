@@ -474,6 +474,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Técnico Superior en Seguridad Informática",
+        "startDate": "2025-01-01",
+        "institution": {
+          "name": "Instituto Técnico Superior TecLab",
+          "description": "Estudios para la gestión de la ciberseguridad para proteger la información de las empresas y los datos sensibles de las personas, manteniendo a las organizaciones seguras.",
+          "URL": "https://teclab.edu.ar/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/10/aae667b6-e1e1-4dec-9dbc-d5c6ab9b6869_teclab_logo.jpg",
+            "alt": "teclab_logo.jpg"
+          }
+        }
       }
     ],
     "softSkills": [
