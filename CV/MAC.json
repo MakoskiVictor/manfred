@@ -571,6 +571,10 @@
         {
           "name": "C++",
           "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
